@@ -179,10 +179,8 @@ McDonald’s;Coffee (Small);0;0;0;0;0;0;0;0;0;0;0;0
 McDonald’s;Coffee (Large);0;0;0;0;0;0;0;0;0;0;0;0
 McDonald’s;Coffee Cream;20;20;2;1.5;0;10;15;0;0;0;0;21.5
 McDonald’s;Sugar Packet;15;0;0;0;0;0;0;4;0;4;0;19
-McDonald’s;"EQUAL® 0
-Calorie Sweetener";0;0;0;0;0;0;0;1;0;1;0;1
-McDonald’s;"SPLENDA® No
-Calorie Sweetener";0;0;0;0;0;0;0;1;0;1;0;1
+McDonald’s;"EQUAL®Calorie Sweetener";0;0;0;0;0;0;0;1;0;1;0;1
+McDonald’s;"SPLENDA®Calorie Sweetener";0;0;0;0;0;0;0;1;0;1;0;1
 McDonald’s;Iced Coffee– Caramel (Small);130;50;5;3.5;0;20;80;21;0;20;1;152.5
 McDonald’s;Iced Coffee– Caramel (Medium);190;70;8;5;0;30;115;27;0;27;2;220
 McDonald’s;Iced Coffee– Caramel (Large);270;100;11;7;0;40;160;41;0;41;2;316
@@ -446,7 +444,7 @@ Burger King;Chocolate Oreo® Shake;740;190;22;13;0.5;70;680;121;1;101;17;837
 Burger King;Vanilla Milk Shake;580;140;15;10;0;60;420;98;0;85;14;661
 Burger King;HERSHEY®’S Chocolate Milk Shake;610;140;16;10;0;60;500;103;1;88;14;694
 Burger King;Strawberry Milk Shake;640;140;15;10;0;60;440;113;0;99;14;735
-Burger King;Coca Cola classic®‡; ; ; ; ; ; ; ; ; ; ; ; 
+Burger King;Coca Cola classic; ; ; ; ; ; ; ; ; ; ; ; 
 Burger King;16 fl oz;210;0;0;0;0;0;50;58;0;58;0;268
 Burger King;20 fl oz;270;0;0;0;0;0;60;73;0;73;0;343
 Burger King;29 fl oz;290;0;0;0;0;0;85;105;0;105;0;395
@@ -1148,4 +1146,4 @@ Pizza Hut;Hand Tossed Slices Ultimate Cheese Lover’s® Medium;230;;10;4.5;0;25
 Pizza Hut;Hand Tossed Slices Ultimate Cheese Lover’s® Large;310;;13;6;0;35;540;33;2;1;15;
 Pizza Hut;Hand Tossed Slices Veggie Lover’s® Small;120;;4;1.5;0;10;230;17;1;1;5;
 Pizza Hut;Hand Tossed Slices Veggie Lover’s® Medium;200;;6;2.5;0;15;370;27;2;2;8;
-Pizza Hut;Hand Tossed Slices Veggie Lover’s® Large;260;;9;4;0;20;510;36;3;3;11;
+Pizza Hut;Hand Tossed Slices Veggie Lover’s® Large;260;;9;4;0;20;510;36;3;3;11
